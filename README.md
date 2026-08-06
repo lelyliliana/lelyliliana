@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Leli Liliana Díaz Izquierdo 👋</h1>
+<h1 align="center">Hola, soy Leli Liliana Díaz Izquierdo 🇨🇴</h1>
 
 <h3 align="center">
 Ingeniera de Sistemas | Docente investigadora | Robótica, IA, IoT y Desarrollo de Software
