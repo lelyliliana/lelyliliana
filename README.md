@@ -13,7 +13,7 @@ Ingeniera de Sistemas | Docente investigadora | Robótica, IA, IoT y Desarrollo 
     💻 GitHub
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="TU_ENLACE_DE_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lelyliliana/">
     🔗 LinkedIn
   </a>
 </p>
