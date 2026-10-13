@@ -1,172 +1,135 @@
 <h1 align="center">Hola, soy Leli Liliana Díaz Izquierdo 🇨🇴</h1>
 
-<h3 align="center">
-Ingeniera de Sistemas · Docente investigadora · Desarrollo de Software · IA · Robótica · Educación en Ingeniería
-</h3>
+<p align="center"><strong>Ingeniera de Sistemas · Docente investigadora · Creadora de recursos educativos abiertos</strong></p>
 
 <p align="center">
-  <a href="https://lelyliliana.com">🌐 Sitio web</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lelyliliana">🔗 LinkedIn</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@lelyliliana">▶️ YouTube</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@lelyliliana">🎵 TikTok</a>
+  <a href="https://lelyliliana.com">Sitio personal</a> ·
+  <a href="https://lelyliliana.com/recursos/">Aprende con Leli</a> ·
+  <a href="https://www.linkedin.com/in/lelyliliana">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0001-5632-8764">ORCID</a> ·
+  <a href="https://www.youtube.com/@lelyliliana">YouTube</a>
 </p>
 
----
+## Sobre mí
 
-## 👩‍💻 Sobre mí
+Soy Ingeniera de Sistemas, especialista en Educación Superior a Distancia y magíster en Gestión de Tecnologías de la Información. Actualmente curso el **Doctorado en Tecnologías de Información en la UNAD**.
 
-Soy **Ingeniera de Sistemas, docente universitaria e investigadora**, con experiencia en formación en programación, desarrollo de software y tecnologías aplicadas a ingeniería.
+Conecto la docencia, la investigación y el desarrollo de software para convertir ideas en soluciones que puedan construirse, probarse y mejorarse. Trabajo con **inteligencia artificial, análisis de datos, robótica e Internet de las Cosas**, y acompaño procesos de formación investigativa en ingeniería.
 
-Actualmente trabajo en proyectos relacionados con **inteligencia artificial, análisis de datos, automatización, robótica y desarrollo de software**, combinando investigación, docencia y construcción de soluciones tecnológicas.
+En GitHub comparto cursos, ejemplos y proyectos para aprender haciendo, desde los fundamentos hasta aplicaciones prácticas.
 
-Una parte importante de mi trabajo en GitHub consiste en desarrollar **cursos completos y recursos educativos abiertos**, diseñados para que los estudiantes puedan avanzar progresivamente desde los fundamentos hasta proyectos aplicados.
+## Aprende con Leli
 
----
+**Lee. Ejecuta. Modifica. Construye.**
 
-## 🔬 Áreas en las que trabajo
+Mis cursos abiertos están organizados para estudiar a tu ritmo, seguir un recorrido progresivo o consultar un tema específico. Encontrarás explicaciones, ejemplos, ejercicios y proyectos.
 
-`Inteligencia Artificial` · `Desarrollo de Software` · `Python` · `Java` · `Robótica` · `IoT` · `Visión por computador` · `ROS 2` · `Análisis de datos` · `Educación en Ingeniería`
+**[Explorar todos los cursos en mi sitio personal →](https://lelyliliana.com/recursos/)**
 
----
-
-## 🛠️ Tecnologías
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,kotlin,html,css,js,git,github,vscode,linux,docker" />
-</p>
-
-También trabajo con herramientas y tecnologías como **Maven, FastAPI, pandas, NumPy, SQLite, OpenCV, ROS 2 y Arduino** según las necesidades de cada proyecto.
-
----
-
-# 🚀 Proyectos destacados
+### Cursos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 [Curso de Python](https://github.com/lelyliliana/Curso-Python)
+### [Python desde cero](https://github.com/lelyliliana/Curso-Python)
 
-Curso completo de Python diseñado para avanzar progresivamente desde los fundamentos del lenguaje hasta programación avanzada y desarrollo de proyectos.
+Programación desde los fundamentos hasta APIs, automatización y análisis de datos.
 
-Incluye **22 unidades**, ejercicios, proyectos prácticos, pruebas automatizadas, bases de datos, APIs, concurrencia, análisis de datos, automatización y buenas prácticas profesionales.
-
-**Tecnologías:** Python · pytest · SQLite · FastAPI · NumPy · pandas
+[Explorar el curso](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
 
 </td>
-
 <td width="50%" valign="top">
 
-### ☕ [Lenguaje de Programación III](https://github.com/lelyliliana/Curso-Lenguaje-de-Programacion-3)
+### [Inteligencia Artificial: fundamentos y aplicaciones](https://github.com/lelyliliana/Curso-Inteligencia-Artificial)
 
-Curso orientado al desarrollo de aplicaciones y servicios utilizando **Java y Spring Boot**, con ejemplos progresivos y proyectos prácticos.
+Reglas, aprendizaje automático, visión, lenguaje, IA generativa, RAG y agentes con Python.
 
-Incluye APIs REST, DTO, manejo de respuestas HTTP, Maven, pruebas y organización de proyectos.
-
-**Tecnologías:** Java · Spring Boot · Maven
+[Explorar el curso](https://lelyliliana.github.io/aprende-con-leli/cursos/inteligencia-artificial/)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Desarrollo de Software II](https://github.com/lelyliliana/Curso-Desarrollo-de-Software-2)
+### [Java desde cero](https://github.com/lelyliliana/Curso-Java)
 
-Repositorio educativo para el desarrollo progresivo de proyectos web, desde su planificación y arquitectura hasta la construcción de soluciones funcionales.
+Programación orientada a objetos, pruebas, colecciones, streams y concurrencia con Java 21.
 
-**Tecnologías:** HTML · CSS · JavaScript
+[Explorar el curso](https://lelyliliana.github.io/aprende-con-leli/cursos/java/)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🌿 [Guía Git, GitHub y VS Code](https://github.com/lelyliliana/Guia-Git-GitHub-VSCode)
+### [Spring Boot y APIs REST](https://github.com/lelyliliana/Curso-Spring-Boot)
 
-Guía práctica paso a paso para aprender a utilizar **Git y GitHub desde Visual Studio Code**, orientada especialmente a estudiantes que comienzan a trabajar con control de versiones.
+Construcción de APIs REST con persistencia, pruebas y herramientas para desarrollar servicios.
 
-**Tecnologías:** Git · GitHub · Visual Studio Code
+[Explorar el curso](https://lelyliliana.github.io/aprende-con-leli/cursos/spring-boot/)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [Aula en Juego](https://github.com/lelyliliana/aula-en-juego)
+### [React](https://github.com/lelyliliana/Curso-React)
 
-Aplicación web educativa para crear y desarrollar juegos de preguntas por equipos, con categorías, puntajes, imágenes y diferentes tipos de respuesta.
+Interfaces web con componentes, hooks, navegación y pruebas.
 
-Proyecto orientado al uso de tecnología como apoyo a experiencias educativas interactivas.
-
-**Tecnologías:** HTML · CSS · JavaScript
+[Explorar el curso](https://lelyliliana.github.io/aprende-con-leli/cursos/react/)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 💻 [Lenguaje de Programación II](https://github.com/lelyliliana/Curso-Lenguaje-de-Programacion-2)
+### [ESP32 e Internet de las Cosas](https://github.com/lelyliliana/Curso-ESP32)
 
-Curso con ejemplos, ejercicios y recursos progresivos para fortalecer competencias de programación y desarrollo de soluciones.
+Sensores y dispositivos conectados mediante Wi-Fi, MQTT, HTTP y Bluetooth.
 
-**Tecnologías:** Programación · Desarrollo web · GitHub
+[Explorar el curso](https://lelyliliana.github.io/aprende-con-leli/cursos/esp32/)
 
 </td>
 </tr>
 </table>
 
----
+### Explora por área
 
-## 📚 Cursos y recursos educativos
+| Área | Cursos y recorridos |
+| --- | --- |
+| Programación | [Algoritmos y lógica de programación](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/) · [C desde cero](https://lelyliliana.github.io/aprende-con-leli/cursos/c/) · [Python desde cero](https://lelyliliana.github.io/aprende-con-leli/cursos/python/) · [Java desde cero](https://lelyliliana.github.io/aprende-con-leli/cursos/java/) · [Estructuras de Datos desde los fundamentos](https://lelyliliana.github.io/aprende-con-leli/cursos/estructuras-datos/) · [Bases de Datos y SQL desde cero](https://lelyliliana.github.io/aprende-con-leli/cursos/bases-datos-sql/) |
+| Desarrollo web | [Spring Boot y APIs REST](https://lelyliliana.github.io/aprende-con-leli/cursos/spring-boot/) · [Desarrollo Full Stack](https://lelyliliana.github.io/aprende-con-leli/cursos/fullstack/) · [HTML y CSS desde cero](https://lelyliliana.github.io/aprende-con-leli/cursos/html-css/) · [JavaScript desde cero](https://lelyliliana.github.io/aprende-con-leli/cursos/javascript/) · [React](https://lelyliliana.github.io/aprende-con-leli/cursos/react/) · [Desarrollo Frontend](https://lelyliliana.github.io/aprende-con-leli/cursos/frontend/) · [Backend y APIs con Java](https://lelyliliana.github.io/aprende-con-leli/cursos/backend-java/) |
+| Electrónica e IoT | [Arduino desde cero](https://lelyliliana.github.io/aprende-con-leli/cursos/arduino/) · [ESP32 e Internet de las Cosas](https://lelyliliana.github.io/aprende-con-leli/cursos/esp32/) |
+| Datos e IA | [Inteligencia Artificial: fundamentos y aplicaciones](https://lelyliliana.github.io/aprende-con-leli/cursos/inteligencia-artificial/) |
+| Herramientas | [Git, GitHub y VS Code](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/) |
 
-En mis repositorios encontrarás materiales desarrollados para apoyar procesos de enseñanza en:
+Si necesitas acompañamiento para resolver dudas o aplicar lo aprendido a tu proyecto, puedes **[consultar una asesoría personalizada](https://lelyliliana.com/#contacto)**.
 
-- Python
-- Java y Spring Boot
-- Desarrollo de software
-- Desarrollo web
-- Git y GitHub
-- Algoritmos y estructuras de programación
+## Investigación y tecnología aplicada
 
-Los cursos están pensados para que el estudiante pueda consultar el `README`, seguir las unidades progresivamente, ejecutar los ejemplos y avanzar hacia proyectos cada vez más completos.
+Mis intereses conectan:
 
----
+- **IA y apoyo a decisiones:** modelos, análisis de datos y conocimiento del contexto para abordar problemas del entorno.
+- **Gestión ambiental y sostenibilidad:** aplicaciones de tecnologías inteligentes en entornos urbanos.
+- **Robótica, percepción e IoT:** sensores, visión por computador y sistemas conectados.
+- **Educación en ingeniería:** aprendizaje basado en proyectos y formación investigativa.
 
-## 🔬 Investigación y desarrollo
+Consulta mi **[trayectoria y producción académica](https://orcid.org/0009-0001-5632-8764)** y mis **[artículos sobre tecnología, educación e investigación](https://lelyliliana.com/blog/)**.
 
-También utilizo GitHub como entorno de trabajo para proyectos de investigación y experimentación relacionados con:
-
-- Inteligencia artificial aplicada.
-- Sistemas de apoyo a la toma de decisiones.
-- Robótica y sistemas autónomos.
-- Visión por computador.
-- IoT.
-- Procesamiento y análisis de datos.
-- Tecnología aplicada a educación e ingeniería.
-
-Algunos repositorios de investigación permanecen privados mientras los proyectos se encuentran en desarrollo.
-
----
-
-## 🎯 Mi enfoque
-
-Me interesa especialmente conectar:
-
-**educación + investigación + desarrollo de software + experimentación tecnológica**
-
-y transformar los conceptos vistos en el aula en proyectos que puedan ser construidos, probados y mejorados.
-
----
-
-## 📫 Contacto
+## Herramientas con las que trabajo
 
 <p align="center">
-  🌐 <a href="https://lelyliliana.com">lelyliliana.com</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/lelyliliana">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ▶️ <a href="https://www.youtube.com/@lelyliliana">YouTube</a>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js,react,git,github,linux,docker,arduino" alt="Python, Java, Spring, HTML, CSS, JavaScript, React, Git, GitHub, Linux, Docker y Arduino" />
 </p>
+
+También utilizo **FastAPI, PostgreSQL, pandas, NumPy, OpenCV y ROS 2**, según las necesidades de cada proyecto.
+
+## Proyectos y recursos
+
+- **[Aprende con Leli](https://github.com/lelyliliana/aprende-con-leli):** plataforma para explorar los cursos abiertos y sus recorridos de aprendizaje.
+- **[Aula en Juego](https://github.com/lelyliliana/aula-en-juego):** aplicación educativa de preguntas por categorías y equipos.
+- **[Mi sitio personal](https://lelyliliana.com/proyectos/):** proyectos, experiencias y líneas de trabajo.
+
+## Conectemos
+
+Para asesorías, capacitaciones y colaboraciones académicas o investigativas, visita **[mi página de contacto](https://lelyliliana.com/#contacto)**.
+
+<p align="center"><em>Tecnología con propósito: aprender, investigar y construir soluciones para el entorno.</em></p>
